@@ -1,0 +1,47 @@
+*p {
+  font-family: arial black, arial-w01-black, arial-w02-black, arial-w10 black,
+    sans-serif;
+}
+.cardwrapper {
+  padding: 1.3rem;
+  border-radius: 0;
+}
+.innerCardWrapper {
+  text-align: center;
+}
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+.logo {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.slogin {
+  font-size: 2rem !important;
+  font-weight: bold;
+  color: #55c5d1;
+}
+
+.subText {
+  font-size: 1.2rem;
+  line-height: 1.3rem;
+  color: #55c5d1;
+}
+
+.smSubText {
+  color: #55c5d1;
+}
+
+.btn {
+  background-color: #55c5d1;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #3a8a93;
+  border: none;
+}

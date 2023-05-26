@@ -1,0 +1,51 @@
+.email,
+.name,
+.address,
+.address2,
+.city,
+.state,
+.zip,
+.textarea {
+  padding: 0 0.3rem;
+  margin: 0.3rem 0;
+}
+
+.error {
+  fill: #ffd23b;
+  width: 24px;
+  height: 21px;
+}
+
+.email,
+.name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2rem;
+}
+
+.contact {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #55c5d1;
+}
+
+.btn {
+  background-color: #55c5d1;
+  margin-top:.5rem;
+  width: 10rem;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #3a8a93;
+  color: white;
+}
+.footer {
+  font-size: .85rem;
+  text-align: center;
+  color: white;
+  background-color: #55c5d1;
+  padding: .5rem 0;
+}
+

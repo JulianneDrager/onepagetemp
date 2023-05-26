@@ -1,0 +1,22 @@
+.aboutUsImg {
+  width: 200px;
+  height: 200px;
+  border-radius: 50% !important;
+  margin: 1rem 0;
+}
+
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  border: 8px solid #4299a3;
+}
+
+.aboutUs {
+    font-size: 2rem !important;
+    font-weight: bold;
+    color: #55c5d1;
+  }
+
+

@@ -1,0 +1,10 @@
+.title {
+    font-size: 2rem !important;
+    font-weight: bold;
+    color: #55c5d1;
+  }
+
+  .innerCardWrapper {
+    text-align: center;
+    border-radius: 0;
+  }
